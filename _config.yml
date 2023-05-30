@@ -1,0 +1,15 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: ANTI-HEADER
+description: 反爬虫手段之header, 支持随机用户头配合anti-useragent使用, 随机假cookie, 多层防护真实IP, 随机字符串值确保每次header不一样
+show_downloads: true
+
+github:
+  zip_url: https://github.com/ihandmine/anti-header/archive/refs/tags/0.0.6.zip
+  tar_url: https://github.com/ihandmine/anti-header/archive/refs/tags/0.0.6.tar.gz
+  repository_url: https://github.com/ihandmine/anti-header
+  owner_url: https://github.com/ihandmine
+  owner_url: ihandmine
+  is_project_page: true
